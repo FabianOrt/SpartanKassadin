@@ -1,0 +1,2 @@
+# SpartanKassadin
+Educational
